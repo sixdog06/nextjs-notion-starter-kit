@@ -2,7 +2,7 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: 'About-402a93949b3e4a69a9ae24c2d7d8a9d6',
+  rootNotionPageId: '402a93949b3e4a69a9ae24c2d7d8a9d6',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'xqt blog',
-  domain: 'https://xtq.notion.site/About-402a93949b3e4a69a9ae24c2d7d8a9d6',
+  domain: 'https://xtq.notion.site/402a93949b3e4a69a9ae24c2d7d8a9d6',
   author: '小拳头',
 
   // open graph metadata (optional)
