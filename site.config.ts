@@ -14,11 +14,11 @@ export default siteConfig({
   author: '小拳头',
 
   // open graph metadata (optional)
-  description: '小拳头的故事',
+  description: '小拳头',
 
   // social usernames (optional)
   twitter: '',
-  github: '-bullshit',
+  github: '',
   linkedin: '',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
