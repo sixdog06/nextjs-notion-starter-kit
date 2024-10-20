@@ -9,12 +9,12 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'xqt blog',
+  name: 'sixdog',
   domain: 'https://xtq.notion.site/402a93949b3e4a69a9ae24c2d7d8a9d6',
-  author: '小拳头',
+  author: 'sixdog',
 
   // open graph metadata (optional)
-  description: '小拳头',
+  description: 'sixdog',
 
   // social usernames (optional)
   twitter: '',
